@@ -24,7 +24,4 @@ python auto.py
 - **xlrd** (for working with spreadsheet files)
 
 
-## Contribution
-Contributions as code and documentation are welcome :)  
-  
-Please refer to the issues section to know more about what features to work on.
+
