@@ -1,4 +1,4 @@
-# Certifly
+# Certificate generator 
 A simple certificate generator using Python Pillow.
 
 The spreadsheet and certificate files are used as demos. Feel free to change both according to your needs.
